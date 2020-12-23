@@ -53,5 +53,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies><dependency><groupId>org.iban4j</groupId><artifactId>iban4j</artifactId><version>3.2.1</version></dependency></dependencies>
+	<dependencies><dependency><groupId>org.iban4j</groupId><artifactId>iban4j</artifactId><version>3.2.2-RELEASE</version></dependency></dependencies>
 </project>
